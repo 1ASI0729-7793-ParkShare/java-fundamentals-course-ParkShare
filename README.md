@@ -9,7 +9,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 **Editores en línea usados**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler), [JDoodle](https://www.jdoodle.com/online-java-compiler) y [Replit](https://replit.com) (100 % en línea y gratuitos)
 
-**📁 Repositorio de Código Fuente**: [https://github.com/1ASI0729-7793-ParkShare/opensource-course.git](https://github.com/1ASI0729-7793-ParkShare/opensource-course.git)
+**📁 Repositorio de Código Fuente**: [https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git](https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git)
 
 
 ## Secuencia de la Lección
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/LINK-FORMULARIO)
 
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-parkshare)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git)
   - `/starter-files`: código inicial de cada práctica
   - `/completed-examples`: soluciones completas de cada lección
   - `/scripts`: guiones de narración de los videos
