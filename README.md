@@ -109,5 +109,5 @@ Período 202620<br>
 NRC 7793<br>
 **Nombre del equipo**: ParkShare<br>
 **Líder del equipo**: [Nombres y Apellidos]<br>
-**Integrantes del equipo**: [Nombres y Apellidos]<br>
+**Integrantes del equipo**: Tello Palacios, Fabrizio Rafael<br>
 **Fecha de entrega**: [Fecha]
