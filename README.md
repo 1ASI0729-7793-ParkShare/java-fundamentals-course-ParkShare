@@ -78,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git)
   - `/starter-files`: código inicial de cada práctica
   - `/completed-examples`: soluciones completas de cada lección
-  - `/scripts`: guiones de narración de los videos
+  - `/scripts`: scripts para compilar y ejecutar los ejemplos (uso del equipo; los estudiantes no necesitan instalar nada)
 - **Todas las actividades prácticas**:
 
 | Número de lección | Actividad | Empezar a programar |
