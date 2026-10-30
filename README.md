@@ -11,7 +11,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **📁 Repositorio de Código Fuente**: [https://github.com/1ASI0729-7793-ParkShare/opensource-course.git](https://github.com/1ASI0729-7793-ParkShare/opensource-course.git)
 
-> 💡 **Cómo usar este curso**: mira cada video, pausa cuando aparezca el ícono ⏸️ **¡Tu turno!** y abre el enlace de práctica. El código ya está cargado: solo presiona **Run** y experimenta.
 
 ## Secuencia de la Lección
 
