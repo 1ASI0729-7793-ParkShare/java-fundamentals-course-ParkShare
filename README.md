@@ -102,20 +102,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## 👥 Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
-
-Carrera de Ingeniería de Software
-
-Período 202620
-
-1ASI0729 Desarrollo de Aplicaciones Open Source
-
-NRC 7793
-
-**Nombre del equipo**: ParkShare
-
-**Líder del equipo**: [Nombres y Apellidos]
-
-**Integrantes del equipo**: [Nombres y Apellidos]
-
+Universidad Peruana de Ciencias Aplicadas<br>
+Carrera de Ingeniería de Software<br>
+Período 202620<br>
+1ASI0729 Desarrollo de Aplicaciones Open Source<br>
+NRC 7793<br>
+**Nombre del equipo**: ParkShare<br>
+**Líder del equipo**: [Nombres y Apellidos]<br>
+**Integrantes del equipo**: [Nombres y Apellidos]<br>
 **Fecha de entrega**: [Fecha]
