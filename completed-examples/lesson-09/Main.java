@@ -70,10 +70,7 @@ public class Main {
 
         double promedio = sumaNotas / estudiantes.length;
 
-        System.out.printf(
-            "\nPromedio del grupo: %.2f%n",
-            promedio
-        );
+        System.out.println("\nPromedio del grupo: " + promedio);
 
         scanner.close();
     }
