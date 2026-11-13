@@ -80,7 +80,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
 - **Descripción**: Aprende a leer los mensajes de error, evita los errores más comunes de principiantes y descubre dónde seguir aprendiendo.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-10)
+- **Enlace**: [Ver la lección](https://youtu.be/ScgQkF8xwqY)
 - **Consejos clave**: Olvidar el `;` o una `}`; comparar `String` con `==` en vez de `.equals()`; usar nombres claros (`edadEstudiante` y no `x`); indentar el código; explorar la [documentación oficial de Java](https://docs.oracle.com/en/java/).
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/LINK-FORMULARIO)
 

@@ -1,52 +1,66 @@
 # Lección 10: Buenas prácticas, errores comunes y próximos pasos
 
 **Duración aproximada:** 5 minutos  
-**Herramienta:** JDoodle  
+**Formato:** Presentación PPT + narración  
 **Objetivo:** Reconocer errores frecuentes al comenzar a programar en Java, aplicar buenas prácticas básicas y conocer posibles temas para continuar aprendiendo.
 
----
+## Diapositiva 1 — Buenas prácticas, errores comunes y próximos pasos
 
-## 0:00 – 0:30 | Introducción
+**Tiempo aproximado: 0:00 – 0:20**
 
 ¡Bienvenido a la última lección del curso!
 
-Ya hemos aprendido a utilizar variables, operadores, condicionales, bucles, métodos, clases, objetos, encapsulación y arrays.
+Durante estas lecciones hemos aprendido diferentes conceptos fundamentales de Java y ya somos capaces de construir pequeños programas utilizando Programación Orientada a Objetos.
 
-Incluso construimos nuestro propio registro de estudiantes.
+Antes de terminar, veremos algunos errores muy comunes al comenzar a programar, buenas prácticas que nos ayudarán a escribir mejor código y algunos temas que podemos aprender después.
 
-Antes de terminar, veremos algunos errores muy comunes cuando comenzamos a programar y varias buenas prácticas que pueden ayudarte a escribir código más claro y fácil de entender.
+## Diapositiva 2 — Lo que ya aprendimos
 
----
+**Tiempo aproximado: 0:20 – 0:45**
 
-## 0:30 – 1:10 | Error 1: olvidar el punto y coma
+Antes de continuar, recordemos rápidamente todo lo que hemos aprendido.
 
-Uno de los errores más comunes en Java es olvidar el punto y coma al final de una instrucción.
+Comenzamos con variables y tipos de datos, después utilizamos operadores, condicionales y bucles.
 
-Observa este ejemplo.
+También aprendimos a crear métodos, recibir información con `Scanner` y trabajar con clases, objetos, encapsulación y arrays.
+
+En la lección anterior combinamos varios de estos conceptos para construir nuestro registro de estudiantes.
+
+Ahora veremos cómo evitar algunos errores comunes cuando trabajemos en nuestros propios programas.
+
+## Diapositiva 3 — Error común: olvidar el punto y coma
+
+**Tiempo aproximado: 0:45 – 1:20**
+
+Uno de los errores más comunes al comenzar con Java es olvidar el punto y coma al final de una instrucción.
+
+En el primer ejemplo podemos ver:
 
 ```java
 int edad = 15
-System.out.println(edad);
 ```
 
-Si intentamos ejecutar este código, Java mostrará un mensaje de error porque falta el punto y coma después del número 15.
+Aquí falta el punto y coma.
 
-La versión correcta es esta:
+La forma correcta sería:
 
 ```java
 int edad = 15;
-System.out.println(edad);
 ```
 
-Cuando tu programa no pueda ejecutarse, lee con calma el mensaje de error y revisa las líneas cercanas a la ubicación que Java te indique.
+Aunque parece un detalle pequeño, Java necesita saber dónde termina cada instrucción.
 
-Muchas veces se trata de un pequeño detalle como este.
+Si olvidamos el punto y coma, nuestro programa no podrá compilar correctamente.
 
----
+Por eso, cuando aparezca un error, revisa primero elementos simples como puntos y comas, paréntesis y llaves.
 
-## 1:10 – 1:50 | Error 2: olvidar una llave
+## Diapositiva 4 — Error común: olvidar una llave
+
+**Tiempo aproximado: 1:20 – 1:55**
 
 Otro error frecuente es olvidar cerrar una llave.
+
+Las llaves nos permiten definir dónde comienza y dónde termina un bloque de código.
 
 Por ejemplo:
 
@@ -55,7 +69,7 @@ if (edad >= 18) {
     System.out.println("Mayor de edad");
 ```
 
-Abrimos una llave después del `if`, pero nunca la cerramos.
+Aquí abrimos una llave después del `if`, pero no la cerramos.
 
 La versión correcta sería:
 
@@ -65,19 +79,19 @@ if (edad >= 18) {
 }
 ```
 
-Las llaves nos ayudan a indicar dónde comienza y termina un bloque de código.
+Una buena indentación también nos ayuda a detectar este tipo de problemas mucho más rápido.
 
-Una buena indentación también hace mucho más fácil detectar este tipo de errores.
+## Diapositiva 5 — Comparar Strings correctamente
 
----
-
-## 1:50 – 2:35 | Error 3: comparar String con ==
+**Tiempo aproximado: 1:55 – 2:35**
 
 Veamos ahora un error que puede ser un poco más difícil de identificar.
 
-Cuando queremos comparar el contenido de dos textos en Java, debemos utilizar el método `equals`.
+Cuando trabajamos con números, podemos utilizar operadores como doble igual para realizar comparaciones.
 
-No es recomendable hacer algo como esto:
+Sin embargo, cuando queremos comparar el contenido de dos `String`, debemos utilizar el método `equals`.
+
+Por ejemplo, debemos evitar esto:
 
 ```java
 if (nombre == "Ana") {
@@ -85,7 +99,7 @@ if (nombre == "Ana") {
 }
 ```
 
-Para comparar el contenido de un `String`, utilizamos `equals`.
+Y utilizar esto:
 
 ```java
 if (nombre.equals("Ana")) {
@@ -93,45 +107,45 @@ if (nombre.equals("Ana")) {
 }
 ```
 
-Recuerda esta diferencia:
+Lo importante es recordar que `equals` nos permite comparar el contenido de los textos.
 
-para comparar valores numéricos podemos utilizar operadores como doble igual, pero para comparar el contenido de un `String` utilizamos `equals`.
+Así que si estás trabajando con `String` y quieres saber si dos textos contienen lo mismo, utiliza `equals`.
 
----
+## Diapositiva 6 — Usa nombres claros
 
-## 2:35 – 3:15 | Utilizar nombres claros
+**Tiempo aproximado: 2:35 – 3:10**
 
 Una buena práctica muy importante es utilizar nombres que expliquen qué representa cada elemento de nuestro programa.
 
-Por ejemplo, observa estas variables:
+Por ejemplo:
 
 ```java
 int x = 15;
 double y = 17;
 ```
 
-El código funciona, pero no sabemos qué significan `x` o `y`.
+Este código puede funcionar, pero al leerlo no sabemos qué significan `x` o `y`.
 
-Podemos mejorarlo utilizando nombres más descriptivos.
+Podemos hacerlo mucho más claro:
 
 ```java
 int edadEstudiante = 15;
 double notaFinal = 17;
 ```
 
-Ahora podemos entender el propósito de cada variable simplemente leyendo su nombre.
+Ahora podemos entender inmediatamente qué información contiene cada variable.
 
-Lo mismo se aplica a clases y métodos.
+Esta práctica también se aplica a métodos y clases.
 
-Un buen nombre puede hacer que nuestro código sea mucho más fácil de entender.
+Un buen nombre puede hacer que nuestro código sea mucho más fácil de entender, tanto para nosotros como para otras personas.
 
----
+## Diapositiva 7 — Mantén tu código ordenado y pruébalo constantemente
 
-## 3:15 – 3:50 | Mantener el código ordenado
+**Tiempo aproximado: 3:10 – 3:50**
 
-También debemos mantener una indentación consistente.
+También debemos mantener nuestro código organizado.
 
-Compara estos dos ejemplos.
+Por ejemplo, este código:
 
 ```java
 if (nota >= 11) {
@@ -139,7 +153,9 @@ System.out.println("Aprobado");
 }
 ```
 
-Cambiar a:
+puede funcionar, pero resulta más difícil de leer.
+
+Es mejor mantener una indentación consistente:
 
 ```java
 if (nota >= 11) {
@@ -147,145 +163,59 @@ if (nota >= 11) {
 }
 ```
 
-Ambos pueden funcionar, pero el segundo es mucho más fácil de leer.
+También es recomendable probar nuestro programa frecuentemente.
 
-Mientras tus programas crezcan, mantener el código organizado será cada vez más importante.
+No esperes a escribir muchas líneas de código antes de comprobar si todo funciona.
 
-También recuerda dividir problemas grandes en partes pequeñas utilizando clases y métodos.
+Puedes seguir un proceso sencillo:
 
----
+escribe una pequeña parte, ejecuta el programa, comprueba el resultado y después continúa.
 
-## 3:50 – 4:20 | Probar el programa constantemente
+De esta forma, cuando aparezca un error, será mucho más fácil encontrarlo.
 
-Otra recomendación es ejecutar tu programa frecuentemente mientras estás trabajando.
+## Diapositiva 8 — ¿Qué puedes aprender después?
 
-No esperes a escribir decenas de líneas antes de comprobar si funcionan.
+**Tiempo aproximado: 3:50 – 4:25**
 
-Puedes escribir una pequeña parte, ejecutarla y comprobar el resultado.
+Aunque este curso termina aquí, Java tiene muchos otros conceptos que podemos seguir aprendiendo.
 
-Si todo funciona, continúa con la siguiente parte.
+Algunos buenos próximos pasos son `ArrayList`, herencia, interfaces, excepciones y manejo de archivos.
 
-Así será mucho más sencillo encontrar un error cuando aparezca.
+Más adelante también podemos utilizar Java para construir aplicaciones mucho más grandes.
 
-Mostrar:
+No necesitas aprender todo de inmediato.
 
-```text
-Escribe una parte
-      ↓
-Ejecuta
-      ↓
-Comprueba el resultado
-      ↓
-Continúa
-```
+Lo más importante es practicar los conceptos que ya conoces y agregar poco a poco nuevas herramientas.
 
----
+Cada pequeño programa que construyas te ayudará a comprender mejor cómo funciona Java.
 
-## 4:20 – 4:50 | ¿Qué aprender después?
+## Diapositiva 9 — Cierre del curso
 
-Aunque este curso termina aquí, Java tiene muchos conceptos que todavía puedes explorar.
+**Tiempo aproximado: 4:25 – 5:00**
 
-Después de dominar estos fundamentos, algunos temas que podrías aprender son:
+¡Felicidades por llegar hasta el final del curso!
 
-```text
-ArrayList
-Herencia
-Interfaces
-Excepciones
-Archivos
-Aplicaciones más grandes
-```
+Comenzamos escribiendo instrucciones muy sencillas en Java y terminamos construyendo un programa utilizando Programación Orientada a Objetos.
 
-No necesitas aprenderlos todos al mismo tiempo.
+Durante el camino aprendimos a trabajar con variables, decisiones, bucles, métodos, objetos, arrays y muchos otros conceptos fundamentales.
 
-Lo importante es seguir practicando y construir programas pequeños que te permitan aplicar cada concepto nuevo.
+Recuerda que cometer errores es una parte normal de aprender programación.
 
----
+Lee los mensajes de error con calma, mantén tu código ordenado, prueba constantemente y divide los problemas grandes en partes más pequeñas.
 
-## 4:50 – 5:00 | Cierre del curso
-
-¡Felicidades por llegar hasta el final!
-
-Durante este curso pasaste de escribir tus primeras instrucciones en Java a construir un programa utilizando Programación Orientada a Objetos.
-
-Continúa experimentando, modifica los ejemplos y trata de crear tus propios proyectos.
+Continúa experimentando con los ejemplos del curso y trata de crear tus propios programas.
 
 La mejor manera de aprender programación es practicando.
 
-¡Nos vemos en tu próximo proyecto!
+¡Gracias por acompañarnos durante este curso y nos vemos en tu próximo proyecto!
 
----
+## Ideas principales de la lección
 
-## Resumen de buenas prácticas
-
-- Lee los mensajes de error con calma.
-- Revisa puntos y comas, paréntesis y llaves.
-- Usa `equals` para comparar el contenido de `String`.
-- Utiliza nombres descriptivos.
-- Mantén una indentación consistente.
-- Divide problemas grandes en partes pequeñas.
-- Ejecuta y prueba tu programa frecuentemente.
-- Practica modificando y creando tus propios ejemplos.
-
-## Errores comunes vistos
-
-### Falta de punto y coma
-
-Incorrecto:
-
-```java
-int edad = 15
-```
-
-Correcto:
-
-```java
-int edad = 15;
-```
-
-### Falta de llave de cierre
-
-Incorrecto:
-
-```java
-if (edad >= 18) {
-    System.out.println("Mayor de edad");
-```
-
-Correcto:
-
-```java
-if (edad >= 18) {
-    System.out.println("Mayor de edad");
-}
-```
-
-### Comparación de String
-
-Evitar:
-
-```java
-nombre == "Ana"
-```
-
-Utilizar:
-
-```java
-nombre.equals("Ana")
-```
-
-### Nombres poco descriptivos
-
-Evitar:
-
-```java
-int x = 15;
-double y = 17;
-```
-
-Preferir:
-
-```java
-int edadEstudiante = 15;
-double notaFinal = 17;
-```
+- Revisar puntos y comas, paréntesis y llaves.
+- Utilizar `equals` para comparar el contenido de `String`.
+- Utilizar nombres descriptivos.
+- Mantener una indentación consistente.
+- Probar el programa frecuentemente.
+- Leer los mensajes de error.
+- Dividir problemas grandes en partes pequeñas.
+- Continuar practicando con nuevos proyectos.
