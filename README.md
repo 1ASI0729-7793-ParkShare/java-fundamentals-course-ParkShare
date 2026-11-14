@@ -75,13 +75,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
 - **Enlace**: [Ver la lección](https://youtu.be/k5Ni5c416OE?si=RmWYG2Wt2RP6KOdZ)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/LINK-PRACTICA-9) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
 - **Descripción**: Aprende a leer los mensajes de error, evita los errores más comunes de principiantes y descubre dónde seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://youtu.be/ScgQkF8xwqY)
 - **Consejos clave**: Olvidar el `;` o una `}`; comparar `String` con `==` en vez de `.equals()`; usar nombres claros (`edadEstudiante` y no `x`); indentar el código; explorar la [documentación oficial de Java](https://docs.oracle.com/en/java/).
+
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/LINK-FORMULARIO)
 
 ## Recursos adicionales
@@ -92,17 +93,17 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `/scripts`: scripts para compilar y ejecutar los ejemplos (uso del equipo; los estudiantes no necesitan instalar nada)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad                                   | Empezar a programar                                |
-| ----------------- | ------------------------------------------- | -------------------------------------------------- |
-| 1                 | Hola mundo                                  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1) |
-| 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2) |
-| 3                 | Calculadora de promedio                     | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-3) |
-| 4                 | Aprobado/desaprobado y tabla de multiplicar | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4) |
-| 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-5) |
-| 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-6) |
-| 7                 | Mascota encapsulada                         | [Replit](https://replit.com/LINK-PRACTICA-7)       |
-| 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8) |
-| 9                 | Registro de Estudiantes (proyecto final)    | [JDoodle](https://replit.com/LINK-PRACTICA-9)      |
+| Número de lección | Actividad                                   | Empezar a programar                                  |
+| ----------------- | ------------------------------------------- | ---------------------------------------------------- |
+| 1                 | Hola mundo                                  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
+| 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
+| 3                 | Calculadora de promedio                     | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-3)   |
+| 4                 | Aprobado/desaprobado y tabla de multiplicar | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
+| 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-5)   |
+| 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-6)   |
+| 7                 | Mascota encapsulada                         | [Replit](https://replit.com/LINK-PRACTICA-7)         |
+| 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
+| 9                 | Registro de Estudiantes (proyecto final)    | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/LINK-CUESTIONARIO)
 - Compartir: #JavaBeginners
