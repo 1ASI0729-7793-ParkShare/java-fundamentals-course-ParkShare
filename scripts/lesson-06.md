@@ -26,7 +26,9 @@ Primero repasaremos de forma clara qué significa cada concepto con un ejemplo s
 Antes de escribir código, veamos cómo se conecta cada pieza:
 
 * **1. Clases (El molde o plano):** Una clase es la plantilla base de lo que vas a programar; define qué características (*atributos*) y qué acciones (*métodos*) tendrán los elementos que crees con ella. Es igual que el **plano de un arquitecto**: el plano en papel no es una casa real donde puedas vivir, pero define exactamente la estructura que tendrán todas las casas construidas con ese diseño.
+
 * **2. Constructores (Valores iniciales):** Es un bloque especial dentro de la clase que se activa una sola vez en el momento exacto en que se crea un elemento nuevo. Su función es recibir datos desde afuera y asignar los valores iniciales con los que arrancará ese elemento.
+
 * **3. Objetos (La cosa real):** Si la clase era el plano del arquitecto, el objeto es la **casa ya terminada**. Se fabrica a partir de la clase, guarda sus propios datos en memoria y puede ejecutar sus propios métodos.
 
 
@@ -75,12 +77,12 @@ Dentro de `class Mascota`, escribimos primero el **constructor** (que lleva exac
 
 ---
 
-## 4:45 – 5:55 | Crear el objeto en `Main`
+## 4:45 – 5:55 | Crear el objeto en `Main6`
 
-Debajo del cierre de `class Mascota`, escribimos la clase principal `Main` con su método `main`, que es la puerta de entrada donde Java empieza a ejecutar el programa:
+Debajo del cierre de `class Mascota`, escribimos la clase principal `Main6` con su método `main`, que es la puerta de entrada donde Java empieza a ejecutar el programa:
 
 ```java
-public class Main {
+public class Main6 {
     public static void main(String[] args) {
         Mascota m = new Mascota("Juan", 3);
         m.ladrar();
@@ -132,7 +134,7 @@ class Mascota {
     }
 }
 
-public class Main {
+public class Main6 {
     public static void main(String[] args) {
         Mascota m = new Mascota("Juan", 3);
         m.ladrar();
