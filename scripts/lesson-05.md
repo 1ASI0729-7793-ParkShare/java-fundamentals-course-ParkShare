@@ -49,10 +49,10 @@ import java.util.Scanner;
 
 ```
 
-Luego creamos el contenedor principal `Main` (en Java todo código va dentro de una clase) y el método `main`, que es la puerta de entrada donde el programa empieza a ejecutarse línea por línea al presionar **Run**:
+Luego creamos el contenedor principal `Voz` (en Java todo código va dentro de una clase) y el método `main`, que es la puerta de entrada donde el programa empieza a ejecutarse línea por línea al presionar **Run**:
 
 ```java
-public class Main {
+public class Voz {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -95,7 +95,7 @@ sc.close();
 
 ## 4:50 – 6:15 | Definir los métodos fuera de `main`
 
-Debajo del cierre de `main` (pero dentro de `public class Main`), escribimos la estructura de ambos métodos:
+Debajo del cierre de `main` (pero dentro de `public class Voz`), escribimos la estructura de ambos métodos:
 
 ```java
 public static void saludar(String nombre) {
@@ -139,7 +139,7 @@ Con esto cerramos la Lección 5: ya sabes cómo leer datos del usuario, enviar p
 ```java
 import java.util.Scanner;
 
-public class Main {
+public class Voz {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
