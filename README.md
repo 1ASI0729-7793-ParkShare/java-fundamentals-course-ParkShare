@@ -45,16 +45,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Métodos, parámetros y Entrada/Salida (7 minutos)
 
 - **Descripción**: Crea código reutilizable con métodos que reciben parámetros y devuelven resultados. Lee datos del usuario con `Scanner`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-5)
+- **Enlace**: [Ver la lección](https://youtu.be/VnMGwgYzQ28?si=aVW0f5aEmaJo2CKC)
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }`; `return` devuelve un valor; `Scanner sc = new Scanner(System.in); String nombre = sc.nextLine();`.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/LINK-PRACTICA-5) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/P1t1pQz3X) 👈 **¡No necesitas registrarte!**
 
 ### Lección 6: Introducción a la POO: Clases, objetos y constructores (7 minutos)
 
 - **Descripción**: Descubre la programación orientada a objetos. Una clase es un molde y los objetos son las cosas creadas con ese molde. Crea tu clase `Mascota`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-6)
-- **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Toby", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/LINK-PRACTICA-6) 👈 **¡No necesitas registrarte!**
+- **Enlace**: [Ver la lección](https://youtu.be/yHa-Mj_gkWY)
+- **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Nombre", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/CB1n3dczT) 👈 **¡No necesitas registrarte!**
 
 ### Lección 7: Encapsulación con getters y setters (5 minutos)
 
