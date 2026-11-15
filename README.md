@@ -114,17 +114,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## 👥 Elaboración
 
-Universidad Peruana de Ciencias Aplicadas<br>
-Carrera de Ingeniería de Software<br>
-Período 202620<br>
-1ASI0729 Desarrollo de Aplicaciones Open Source<br>
-NRC 7793<br>
-**Nombre del equipo**: ParkShare<br>
-**Líder del equipo**: [Nombres y Apellidos]<br>
-**Integrantes del equipo**:
-<br>
-Tello Palacios, Fabrizio Rafael
-<br>
-Yanac Flores, Gabriel Stefano
-<br>
-**Fecha de entrega**: [Fecha]
+# Universidad Peruana de Ciencias Aplicadas (UPC)
+**Carrera de Ingeniería de Software**  
+**Período:** 2026-20 | **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source | **NRC:** 7793
+
+---
+
+* **Nombre del equipo:** ACME Industries
+* **Líder del equipo:** Daril Johan Palomino Vilcañaupa
+* **Fecha de entrega:** 14/11/2026
+
+### Integrantes del equipo
+* Checa Burga, Oscar Diego
+* Yanac Flores, Gabriel Stefano
+* Tello Palacios, Fabrizio Rafael
+* Palomino Vilcañaupa, Daril Johan
+* Urviola Condori, Mateo Sebastian
