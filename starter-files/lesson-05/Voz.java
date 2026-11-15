@@ -1,26 +1,22 @@
-import java.util.Scanner;
+// Importa la clase necesaria para leer datos por teclado
 
 public class Voz {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Crea el objeto para leer la entrada del usuario por consola
 
-        System.out.print("Escribe tu nombre: ");
-        String nombre = sc.nextLine();
+        // Pide el nombre por pantalla y guárdalo en una variable
 
-        saludar(nombre);
+        // Llama al método que saluda pasándole el nombre ingresado
 
-        int resultado = sumar(3, 4);
-        System.out.println("El resultado de sumar(3, 4) es: " + resultado);
+        // Llama al método de suma con dos números, guarda el resultado e imprímelo en consola
 
-        sc.close();
+        // Cierra el objeto de lectura
     }
 
-    public static void saludar(String nombre) {
-        System.out.println("¡Hola, " + nombre + "!");
-    }
+    // Crea un método estático que no devuelva valor (void) y reciba un nombre para mostrar un saludo en consola
 
-    public static int sumar(int a, int b) {
-        return a + b;
-    }
+
+    // Crea un método estático que reciba dos números enteros, los sume y retorne el resultado
+
 }
