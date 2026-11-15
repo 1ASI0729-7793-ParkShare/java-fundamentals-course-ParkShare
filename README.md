@@ -38,9 +38,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 4: Estructuras de control: Decisiones y bucles (8 minutos)
 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas con `for` y `while`. Programa un mensaje según tu nota y una tabla de multiplicar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-4)
+- **Enlace**: [Ver la lección](https://youtu.be/5BSSqaXJ0Oo)
 - **Conclusiones clave**: `if (nota >= 11) { ... } else { ... }`; `for (int i = 1; i <= 10; i++) { ... }`; `while (condicion) { ... }`.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/LINK-PRACTICA-4) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar]( https://onlinegdb.com/SUyXszujo) 👈 **¡Inicio inmediato!**
 
 ### Lección 5: Métodos, parámetros y Entrada/Salida (7 minutos)
 
