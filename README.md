@@ -26,7 +26,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende a guardar datos en variables y conoce los tipos básicos. Crea tu "tarjeta de presentación" en consola, como si fuera tu página web personal.
 - **Enlace**: [Ver la lección](https://youtu.be/hx_836d7s8I)
 - **Conclusiones clave**: `int edad = 15;`, `double nota = 17.5;`, `boolean esEstudiante = true;`, `String nombre = "Ana";`; una variable es como una caja con nombre.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/LINK-PRACTICA-2) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/BT_RbBhxR) 👈 **¡No es necesario registrarse!**
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
