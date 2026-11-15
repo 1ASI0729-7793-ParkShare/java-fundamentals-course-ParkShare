@@ -17,9 +17,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 - **Descripción**: Aprende qué es la programación, qué es un programa y por qué Java es un excelente lenguaje para empezar. Escribe tu primer programa en el navegador.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-1)
+- **Enlace**: [Ver la lección](https://youtu.be/1xFJhK1ftvE)
 - **Conclusiones clave**: Un programa es una lista de instrucciones para la computadora; Java se usa en aplicaciones, juegos y servidores; `System.out.println("Hola mundo");` muestra texto en pantalla.
-- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/LINK-PRACTICA-1) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/MZQAHh32k) 👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
