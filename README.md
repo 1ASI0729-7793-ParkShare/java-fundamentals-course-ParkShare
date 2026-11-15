@@ -31,9 +31,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
 - **Descripción**: Haz cálculos y comparaciones: suma, resta, multiplicación, división, módulo y operadores lógicos. Calcula el promedio de tus notas.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-3)
+- **Enlace**: [Ver la lección](https://youtu.be/8PpymuALkkE)
 - **Conclusiones clave**: `+ - * / %`; `==`, `!=`, `>`, `<`; `&&`, `||`; cuidado: `7 / 2` da `3` con `int`.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/LINK-PRACTICA-3) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/uXURJtItu) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Estructuras de control: Decisiones y bucles (8 minutos)
 
@@ -45,16 +45,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 5: Métodos, parámetros y Entrada/Salida (7 minutos)
 
 - **Descripción**: Crea código reutilizable con métodos que reciben parámetros y devuelven resultados. Lee datos del usuario con `Scanner`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-5)
+- **Enlace**: [Ver la lección](https://youtu.be/VnMGwgYzQ28?si=aVW0f5aEmaJo2CKC)
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }`; `return` devuelve un valor; `Scanner sc = new Scanner(System.in); String nombre = sc.nextLine();`.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/LINK-PRACTICA-5) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/P1t1pQz3X) 👈 **¡No necesitas registrarte!**
 
 ### Lección 6: Introducción a la POO: Clases, objetos y constructores (7 minutos)
 
 - **Descripción**: Descubre la programación orientada a objetos. Una clase es un molde y los objetos son las cosas creadas con ese molde. Crea tu clase `Mascota`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-6)
-- **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Toby", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/LINK-PRACTICA-6) 👈 **¡No necesitas registrarte!**
+- **Enlace**: [Ver la lección](https://youtu.be/yHa-Mj_gkWY)
+- **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Nombre", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/CB1n3dczT) 👈 **¡No necesitas registrarte!**
 
 ### Lección 7: Encapsulación con getters y setters (5 minutos)
 
@@ -97,10 +97,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | ----------------- | ------------------------------------------- | ---------------------------------------------------- |
 | 1                 | Hola mundo                                  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
 | 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
-| 3                 | Calculadora de promedio                     | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-3)   |
+| 3                 | Calculadora de promedio                     | [OnlineGDB](https://onlinegdb.com/uXURJtItu)   |
 | 4                 | Aprobado/desaprobado y tabla de multiplicar | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
-| 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-5)   |
-| 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-6)   |
+| 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)   |
+| 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)   |
 | 7                 | Mascota encapsulada                         | [Replit](https://replit.com/LINK-PRACTICA-7)         |
 | 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
 | 9                 | Registro de Estudiantes (proyecto final)    | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
