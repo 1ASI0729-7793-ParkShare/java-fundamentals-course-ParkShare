@@ -24,7 +24,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y conoce los tipos básicos. Crea tu "tarjeta de presentación" en consola, como si fuera tu página web personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-2)
+- **Enlace**: [Ver la lección](https://youtu.be/hx_836d7s8I)
 - **Conclusiones clave**: `int edad = 15;`, `double nota = 17.5;`, `boolean esEstudiante = true;`, `String nombre = "Ana";`; una variable es como una caja con nombre.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/LINK-PRACTICA-2) 👈 **¡No es necesario registrarse!**
 
