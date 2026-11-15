@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 7: Encapsulación con getters y setters (5 minutos)
 
 - **Descripción**: Protege los datos de tus objetos con `private` y accede a ellos de forma segura con getters y setters.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=LINK-LECCION-7)
+- **Enlace**: [Ver la lección](https://youtu.be/KJtXQVhBuuk)
 - **Conclusiones clave**: `private int edad;`; `public int getEdad() { return edad; }`; un setter puede validar: no permitir edades negativas.
 - **Práctica**: [Clic para programar](https://replit.com/LINK-PRACTICA-7) 👈 **¡Guarda tu progreso!**
 
