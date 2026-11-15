@@ -61,14 +61,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Protege los datos de tus objetos con `private` y accede a ellos de forma segura con getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/KJtXQVhBuuk)
 - **Conclusiones clave**: `private int edad;`; `public int getEdad() { return edad; }`; un setter puede validar: no permitir edades negativas.
-- **Práctica**: [Clic para programar](https://replit.com/LINK-PRACTICA-7) 👈 **¡Guarda tu progreso!**
+- **Práctica**: [Clic para programar](https://www.onlinegdb.com/#) 👈 **¡Guarda tu progreso!**
 
 ### Lección 8: Arrays y cadenas con objetos (5 minutos)
 
 - **Descripción**: Guarda varios datos en un array, recórrelo con un bucle y trabaja con cadenas (`String`). Combínalos con objetos para manejar una lista de mascotas.
 - **Enlace**: [Ver la lección](https://youtu.be/8xwsOnWjq8A)
 - **Conclusiones clave**: `int[] numeros = {10, 50, 12};`; `numeros.length`; `Mascota[] mascotas = new Mascota[3];`; `texto.length()`, `texto.toUpperCase()`, `texto.equals(otro)`.
-- **Práctica**: [Clic para programar]() 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://www.onlinegdb.com/#) 👈 **¡No es necesario registrarse!**
 
 ### Lección 9: Proyecto final: Registro de Estudiantes con POO (7 minutos)
 
