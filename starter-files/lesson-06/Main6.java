@@ -1,20 +1,20 @@
 class Mascota {
-    String nombre;
-    int edad;
+    // Declara los atributos de la mascota (nombre y edad)
 
-    public Mascota(String nombre, int edad) {
-        this.nombre = nombre;
-        this.edad = edad;
-    }
 
-    public void ladrar() {
-        System.out.println("¡Guau! Soy " + nombre + " y tengo " + edad + " años.");
-    }
+    // Crea el constructor que reciba el nombre y la edad para inicializar los atributos
+
+
+    // Crea un método público que no devuelva valor (void) para que la mascota ladre e imprima su nombre y edad
+
 }
 
 public class Main6 {
     public static void main(String[] args) {
-        Mascota m = new Mascota("Juan", 3);
-        m.ladrar();
+        // Instancia un objeto de tipo Mascota pasándole un nombre y una edad
+
+
+        // Llama al método del objeto para que realice la acción
+
     }
 }
