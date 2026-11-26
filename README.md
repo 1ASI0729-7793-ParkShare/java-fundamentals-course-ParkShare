@@ -19,14 +19,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende qué es la programación, qué es un programa y por qué Java es un excelente lenguaje para empezar. Escribe tu primer programa en el navegador.
 - **Enlace**: [Ver la lección](https://youtu.be/1xFJhK1ftvE)
 - **Conclusiones clave**: Un programa es una lista de instrucciones para la computadora; Java se usa en aplicaciones, juegos y servidores; `System.out.println("Hola mundo");` muestra texto en pantalla.
-- **Empieza a programar**: [Practica Guiada](https://onlinegdb.com/MZQAHh32k) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Practica Guiada](https://onlinegdb.com/MZQAHh32k) 👈 **¡Inicio inmediato!**
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y conoce los tipos básicos. Crea tu "tarjeta de presentación" en consola, como si fuera tu página web personal.
 - **Enlace**: [Ver la lección](https://youtu.be/hx_836d7s8I)
 - **Conclusiones clave**: `int edad = 15;`, `double nota = 17.5;`, `boolean esEstudiante = true;`, `String nombre = "Ana";`; una variable es como una caja con nombre.
-- **Práctica**: [Practica Guiada](https://onlinegdb.com/BT_RbBhxR) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/BT_RbBhxR) 👈 **¡Inicio inmediato!**
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
@@ -47,35 +47,35 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Crea código reutilizable con métodos que reciben parámetros y devuelven resultados. Lee datos del usuario con `Scanner`.
 - **Enlace**: [Ver la lección](https://youtu.be/VnMGwgYzQ28?si=aVW0f5aEmaJo2CKC)
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }`; `return` devuelve un valor; `Scanner sc = new Scanner(System.in); String nombre = sc.nextLine();`.
-- **Práctica**: [Practica Guiada](https://onlinegdb.com/P1t1pQz3X) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/P1t1pQz3X) 👈 **¡Inicio inmediato!**
 
 ### Lección 6: Introducción a la POO: Clases, objetos y constructores (7 minutos)
 
 - **Descripción**: Descubre la programación orientada a objetos. Una clase es un molde y los objetos son las cosas creadas con ese molde. Crea tu clase `Mascota`.
 - **Enlace**: [Ver la lección](https://youtu.be/yHa-Mj_gkWY)
 - **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Nombre", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
-- **Práctica**: [Practica Guiada](https://onlinegdb.com/CB1n3dczT) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/CB1n3dczT) 👈 **¡Inicio inmediato!**
 
 ### Lección 7: Encapsulación con getters y setters (5 minutos)
 
 - **Descripción**: Protege los datos de tus objetos con `private` y accede a ellos de forma segura con getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/KJtXQVhBuuk)
 - **Conclusiones clave**: `private int edad;`; `public int getEdad() { return edad; }`; un setter puede validar: no permitir edades negativas.
-- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡Guarda tu progreso!**
+- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡Inicio inmediato!**
 
 ### Lección 8: Arrays y cadenas con objetos (5 minutos)
 
 - **Descripción**: Guarda varios datos en un array, recórrelo con un bucle y trabaja con cadenas (`String`). Combínalos con objetos para manejar una lista de mascotas.
 - **Enlace**: [Ver la lección](https://youtu.be/8xwsOnWjq8A)
 - **Conclusiones clave**: `int[] numeros = {10, 50, 12};`; `numeros.length`; `Mascota[] mascotas = new Mascota[3];`; `texto.length()`, `texto.toUpperCase()`, `texto.equals(otro)`.
-- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡Inicio inmediato!**
 
 ### Lección 9: Proyecto final: Registro de Estudiantes con POO (7 minutos)
 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
 - **Enlace**: [Ver la lección](https://youtu.be/k5Ni5c416OE?si=RmWYG2Wt2RP6KOdZ)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
-- **Proyecto final**: [Crea tu proyecto Final](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu proyecto Final](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Inicio inmediato!**
 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
