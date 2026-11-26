@@ -105,7 +105,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://www.onlinegdb.com/)   |
 | 9                 | Registro de Estudiantes (proyecto final)    | [OnlineGDB]() |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/LINK-CUESTIONARIO)
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/hz1nX1wixpJxAY5R9)
 - Compartir: #JavaBeginners
 
 **¡Gracias por completar el curso!**
