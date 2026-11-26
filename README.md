@@ -40,7 +40,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas con `for` y `while`. Programa un mensaje según tu nota y una tabla de multiplicar.
 - **Enlace**: [Ver la lección](https://youtu.be/5BSSqaXJ0Oo)
 - **Conclusiones clave**: `if (nota >= 11) { ... } else { ... }`; `for (int i = 1; i <= 10; i++) { ... }`; `while (condicion) { ... }`.
-- **Práctica**: [Clic para programar]( https://onlinegdb.com/SUyXszujo) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/SUyXszujo) 👈 **¡Inicio inmediato!**
 
 ### Lección 5: Métodos, parámetros y Entrada/Salida (7 minutos)
 
@@ -73,7 +73,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 9: Proyecto final: Registro de Estudiantes con POO (7 minutos)
 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
-- **Enlace**: [Ver la lección](https://youtu.be/k5Ni5c416OE?si=RmWYG2Wt2RP6KOdZ)
+- **Enlace**: [Ver la lección](https://youtu.be/nWP8oWE1W3Q)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
 - **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
 
@@ -93,17 +93,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `/scripts`: scripts para compilar y ejecutar los ejemplos (uso del equipo; los estudiantes no necesitan instalar nada)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad                                   | Empezar a programar                                  |
-| ----------------- | ------------------------------------------- | ---------------------------------------------------- |
-| 1                 | Hola mundo                                  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
-| 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
-| 3                 | Calculadora de promedio                     | [OnlineGDB](https://onlinegdb.com/uXURJtItu)   |
-| 4                 | Aprobado/desaprobado y tabla de multiplicar | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
-| 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)   |
-| 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)   |
-| 7                 | Mascota encapsulada                         | [Replit](https://replit.com/LINK-PRACTICA-7)         |
-| 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
-| 9                 | Registro de Estudiantes (proyecto final)    | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
+| Número de lección | Actividad                                          | Empezar a programar                                  |
+| ----------------- | -------------------------------------------------- | ---------------------------------------------------- |
+| 1                 | Hola mundo                                         | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
+| 2                 | Tarjeta de presentación con variables              | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
+| 3                 | Calculadora de promedio                            | [OnlineGDB](https://onlinegdb.com/uXURJtItu)         |
+| 4                 | Aprobado/desaprobado y tabla de multiplicar        | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
+| 5                 | Saludo personalizado con métodos y Scanner         | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)         |
+| 6                 | Clase Mascota                                      | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)         |
+| 7                 | Mascota encapsulada                                | [Replit](https://replit.com/LINK-PRACTICA-7)         |
+| 8                 | Lista de mascotas con arrays                       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
+| 9                 | Registro de Estudiantes (proyecto final)           | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
+| 10                | Buenas prácticas, errores comunes y próximos pasos |                                                      |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/LINK-CUESTIONARIO)
 - Compartir: #JavaBeginners
@@ -115,18 +116,20 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## 👥 Elaboración
 
 # Universidad Peruana de Ciencias Aplicadas (UPC)
+
 **Carrera de Ingeniería de Software**  
 **Período:** 2026-20 | **Curso:** 1ASI0729 Desarrollo de Aplicaciones Open Source | **NRC:** 7793
 
 ---
 
-* **Nombre del equipo:** ACME Industries
-* **Líder del equipo:** Daril Johan Palomino Vilcañaupa
-* **Fecha de entrega:** 14/11/2026
+- **Nombre del equipo:** ACME Industries
+- **Líder del equipo:** Daril Johan Palomino Vilcañaupa
+- **Fecha de entrega:** 14/11/2026
 
 ### Integrantes del equipo
-* Checa Burga, Oscar Diego
-* Yanac Flores, Gabriel Stefano
-* Tello Palacios, Fabrizio Rafael
-* Palomino Vilcañaupa, Daril Johan
-* Urviola Condori, Mateo Sebastian
+
+- Checa Burga, Oscar Diego
+- Yanac Flores, Gabriel Stefano
+- Tello Palacios, Fabrizio Rafael
+- Palomino Vilcañaupa, Daril Johan
+- Urviola Condori, Mateo Sebastian
