@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
 - **Enlace**: [Ver la lección](https://youtu.be/nWP8oWE1W3Q)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
-- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/ktNIM-DN-) 👈 **¡Guarda y comparte!**
 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
