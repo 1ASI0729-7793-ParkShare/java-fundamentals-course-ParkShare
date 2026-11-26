@@ -93,18 +93,18 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `/scripts`: scripts para compilar y ejecutar los ejemplos (uso del equipo; los estudiantes no necesitan instalar nada)
 - **Todas las actividades prácticas**:
 
-| Número de lección | Actividad                                          | Empezar a programar                                  |
-| ----------------- | -------------------------------------------------- | ---------------------------------------------------- |
-| 1                 | Hola mundo                                         | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
-| 2                 | Tarjeta de presentación con variables              | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
-| 3                 | Calculadora de promedio                            | [OnlineGDB](https://onlinegdb.com/uXURJtItu)         |
-| 4                 | Aprobado/desaprobado y tabla de multiplicar        | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
-| 5                 | Saludo personalizado con métodos y Scanner         | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)         |
-| 6                 | Clase Mascota                                      | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)         |
-| 7                 | Mascota encapsulada                                | [Replit](https://replit.com/LINK-PRACTICA-7)         |
-| 8                 | Lista de mascotas con arrays                       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
-| 9                 | Registro de Estudiantes (proyecto final)           | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
-| 10                | Buenas prácticas, errores comunes y próximos pasos |                                                      |
+| Número de lección | Actividad                                          | Empezar a programar                                |
+| ----------------- | -------------------------------------------------- | -------------------------------------------------- |
+| 1                 | Hola mundo                                         | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1) |
+| 2                 | Tarjeta de presentación con variables              | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2) |
+| 3                 | Calculadora de promedio                            | [OnlineGDB](https://onlinegdb.com/uXURJtItu)       |
+| 4                 | Aprobado/desaprobado y tabla de multiplicar        | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4) |
+| 5                 | Saludo personalizado con métodos y Scanner         | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)       |
+| 6                 | Clase Mascota                                      | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)       |
+| 7                 | Mascota encapsulada                                | [Replit](https://replit.com/LINK-PRACTICA-7)       |
+| 8                 | Lista de mascotas con arrays                       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8) |
+| 9                 | Registro de Estudiantes (proyecto final)           | [OnlineGDB](https://onlinegdb.com/ktNIM-DN-)       |
+| 10                | Buenas prácticas, errores comunes y próximos pasos |                                                    |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/LINK-CUESTIONARIO)
 - Compartir: #JavaBeginners
