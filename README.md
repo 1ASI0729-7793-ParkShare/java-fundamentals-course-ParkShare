@@ -8,7 +8,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**Editores en línea usados**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler), [JDoodle](https://www.jdoodle.com/online-java-compiler) y [Replit](https://replit.com) (100 % en línea y gratuitos)
+**Editores en línea usados**: [OnlineGDB](https://www.onlinegdb.com/online_java_compiler).
 
 **📁 Repositorio de Código Fuente**: [https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git](https://github.com/1ASI0729-7793-ParkShare/java-fundamentals-course-ParkShare.git)
 
@@ -19,63 +19,63 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Aprende qué es la programación, qué es un programa y por qué Java es un excelente lenguaje para empezar. Escribe tu primer programa en el navegador.
 - **Enlace**: [Ver la lección](https://youtu.be/1xFJhK1ftvE)
 - **Conclusiones clave**: Un programa es una lista de instrucciones para la computadora; Java se usa en aplicaciones, juegos y servidores; `System.out.println("Hola mundo");` muestra texto en pantalla.
-- **Empieza a programar**: [Abrir OnlineGDB - Hola mundo](https://onlinegdb.com/MZQAHh32k) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Practica Guiada](https://onlinegdb.com/MZQAHh32k) 👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 
 - **Descripción**: Aprende a guardar datos en variables y conoce los tipos básicos. Crea tu "tarjeta de presentación" en consola, como si fuera tu página web personal.
 - **Enlace**: [Ver la lección](https://youtu.be/hx_836d7s8I)
 - **Conclusiones clave**: `int edad = 15;`, `double nota = 17.5;`, `boolean esEstudiante = true;`, `String nombre = "Ana";`; una variable es como una caja con nombre.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/BT_RbBhxR) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/BT_RbBhxR) 👈 **¡No es necesario registrarse!**
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 
 - **Descripción**: Haz cálculos y comparaciones: suma, resta, multiplicación, división, módulo y operadores lógicos. Calcula el promedio de tus notas.
 - **Enlace**: [Ver la lección](https://youtu.be/8PpymuALkkE)
 - **Conclusiones clave**: `+ - * / %`; `==`, `!=`, `>`, `<`; `&&`, `||`; cuidado: `7 / 2` da `3` con `int`.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/uXURJtItu) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/uXURJtItu) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Estructuras de control: Decisiones y bucles (8 minutos)
 
 - **Descripción**: Toma decisiones con `if-else` y repite tareas con `for` y `while`. Programa un mensaje según tu nota y una tabla de multiplicar.
 - **Enlace**: [Ver la lección](https://youtu.be/5BSSqaXJ0Oo)
 - **Conclusiones clave**: `if (nota >= 11) { ... } else { ... }`; `for (int i = 1; i <= 10; i++) { ... }`; `while (condicion) { ... }`.
-- **Práctica**: [Clic para programar]( https://onlinegdb.com/SUyXszujo) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Practica Guiada]( https://onlinegdb.com/SUyXszujo) 👈 **¡Inicio inmediato!**
 
 ### Lección 5: Métodos, parámetros y Entrada/Salida (7 minutos)
 
 - **Descripción**: Crea código reutilizable con métodos que reciben parámetros y devuelven resultados. Lee datos del usuario con `Scanner`.
 - **Enlace**: [Ver la lección](https://youtu.be/VnMGwgYzQ28?si=aVW0f5aEmaJo2CKC)
 - **Conclusiones clave**: `public static void saludar(String nombre) { ... }`; `return` devuelve un valor; `Scanner sc = new Scanner(System.in); String nombre = sc.nextLine();`.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/P1t1pQz3X) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/P1t1pQz3X) 👈 **¡No necesitas registrarte!**
 
 ### Lección 6: Introducción a la POO: Clases, objetos y constructores (7 minutos)
 
 - **Descripción**: Descubre la programación orientada a objetos. Una clase es un molde y los objetos son las cosas creadas con ese molde. Crea tu clase `Mascota`.
 - **Enlace**: [Ver la lección](https://youtu.be/yHa-Mj_gkWY)
 - **Conclusiones clave**: `class Mascota { String nombre; int edad; }`; el constructor da valores iniciales; `Mascota m = new Mascota("Nombre", 3);` crea un objeto; los métodos son lo que el objeto sabe hacer.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/CB1n3dczT) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/CB1n3dczT) 👈 **¡No necesitas registrarte!**
 
 ### Lección 7: Encapsulación con getters y setters (5 minutos)
 
 - **Descripción**: Protege los datos de tus objetos con `private` y accede a ellos de forma segura con getters y setters.
 - **Enlace**: [Ver la lección](https://youtu.be/KJtXQVhBuuk)
 - **Conclusiones clave**: `private int edad;`; `public int getEdad() { return edad; }`; un setter puede validar: no permitir edades negativas.
-- **Práctica**: [Clic para programar](https://www.onlinegdb.com/#) 👈 **¡Guarda tu progreso!**
+- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡Guarda tu progreso!**
 
 ### Lección 8: Arrays y cadenas con objetos (5 minutos)
 
 - **Descripción**: Guarda varios datos en un array, recórrelo con un bucle y trabaja con cadenas (`String`). Combínalos con objetos para manejar una lista de mascotas.
 - **Enlace**: [Ver la lección](https://youtu.be/8xwsOnWjq8A)
 - **Conclusiones clave**: `int[] numeros = {10, 50, 12};`; `numeros.length`; `Mascota[] mascotas = new Mascota[3];`; `texto.length()`, `texto.toUpperCase()`, `texto.equals(otro)`.
-- **Práctica**: [Clic para programar](https://www.onlinegdb.com/#) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡No es necesario registrarse!**
 
 ### Lección 9: Proyecto final: Registro de Estudiantes con POO (7 minutos)
 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
 - **Enlace**: [Ver la lección](https://youtu.be/k5Ni5c416OE?si=RmWYG2Wt2RP6KOdZ)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
-- **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Crea tu proyecto Final](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Guarda y comparte!**
 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
@@ -83,7 +83,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Enlace**: [Ver la lección](https://youtu.be/ScgQkF8xwqY)
 - **Consejos clave**: Olvidar el `;` o una `}`; comparar `String` con `==` en vez de `.equals()`; usar nombres claros (`edadEstudiante` y no `x`); indentar el código; explorar la [documentación oficial de Java](https://docs.oracle.com/en/java/).
 
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/LINK-FORMULARIO)
+- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/poFJEcabhH1XxiZQ9)
 
 ## Recursos adicionales
 
@@ -95,15 +95,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 | Número de lección | Actividad                                   | Empezar a programar                                  |
 | ----------------- | ------------------------------------------- | ---------------------------------------------------- |
-| 1                 | Hola mundo                                  | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-1)   |
-| 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-2)   |
+| 1                 | Hola mundo                                  | [OnlineGDB](https://www.onlinegdb.com/MZQAHh32k)   |
+| 2                 | Tarjeta de presentación con variables       | [OnlineGDB](https://www.onlinegdb.com/fork/BT_RbBhxR)   |
 | 3                 | Calculadora de promedio                     | [OnlineGDB](https://onlinegdb.com/uXURJtItu)   |
-| 4                 | Aprobado/desaprobado y tabla de multiplicar | [JDoodle](https://www.jdoodle.com/LINK-PRACTICA-4)   |
+| 4                 | Aprobado/desaprobado y tabla de multiplicar | [OnlineGDB](https://www.onlinegdb.com/SUyXszujo)   |
 | 5                 | Saludo personalizado con métodos y Scanner  | [OnlineGDB](https://onlinegdb.com/P1t1pQz3X)   |
 | 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)   |
-| 7                 | Mascota encapsulada                         | [Replit](https://replit.com/LINK-PRACTICA-7)         |
-| 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://onlinegdb.com/LINK-PRACTICA-8)   |
-| 9                 | Registro de Estudiantes (proyecto final)    | [JDoodle](https://www.jdoodle.com/ia/82mv-fg85-uxnn) |
+| 7                 | Mascota encapsulada                         | [OnlineGDB](https://www.onlinegdb.com/)         |
+| 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://www.onlinegdb.com/)   |
+| 9                 | Registro de Estudiantes (proyecto final)    | [OnlineGDB]() |
 
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/LINK-CUESTIONARIO)
 - Compartir: #JavaBeginners
