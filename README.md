@@ -103,8 +103,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 6                 | Clase Mascota                               | [OnlineGDB](https://onlinegdb.com/CB1n3dczT)   |
 | 7                 | Mascota encapsulada                         | [OnlineGDB](https://www.onlinegdb.com/)         |
 | 8                 | Lista de mascotas con arrays                | [OnlineGDB](https://www.onlinegdb.com/)   |
-| 9                 | Registro de Estudiantes (proyecto final)    | [OnlineGDB]() |
-
+| 9                 | Registro de Estudiantes (proyecto final)    | [OnlineGDB](https://onlinegdb.com/ktNIM-DN) |
+| 10                 | Buenas prácticas, errores comunes y próximos pasos   |  |
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/hz1nX1wixpJxAY5R9)
 - Compartir: #JavaBeginners
 
