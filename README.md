@@ -68,14 +68,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: Guarda varios datos en un array, recórrelo con un bucle y trabaja con cadenas (`String`). Combínalos con objetos para manejar una lista de mascotas.
 - **Enlace**: [Ver la lección](https://youtu.be/8xwsOnWjq8A)
 - **Conclusiones clave**: `int[] numeros = {10, 50, 12};`; `numeros.length`; `Mascota[] mascotas = new Mascota[3];`; `texto.length()`, `texto.toUpperCase()`, `texto.equals(otro)`.
-- **Práctica**: [Practica Guiada](https://www.onlinegdb.com/#) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Practica Guiada](https://onlinegdb.com/FBlFNDO43) 👈 **¡Inicio inmediato!**
 
 ### Lección 9: Proyecto final: Registro de Estudiantes con POO (7 minutos)
 
 - **Descripción**: Junta todo lo aprendido y construye un programa POO: una clase `Estudiante` encapsulada, un array de estudiantes, lectura de datos con `Scanner`, cálculo del promedio y mensajes con `if-else`.
 - **Enlace**: [Ver la lección](https://youtu.be/k5Ni5c416OE?si=RmWYG2Wt2RP6KOdZ)
 - **Conclusiones clave**: Clases + objetos + arrays + métodos + bucles = un programa real; divide el problema en pasos pequeños.
-- **Proyecto final**: [Crea tu proyecto Final](https://www.jdoodle.com/ia/82mv-fg85-uxnn) 👈 **¡Inicio inmediato!**
+- **Proyecto final**: [Crea tu proyecto Final](https://onlinegdb.com/ktNIM-DN-) 👈 **¡Inicio inmediato!**
 
 ### Lección 10: Buenas prácticas, errores comunes y próximos pasos (5 minutos)
 
